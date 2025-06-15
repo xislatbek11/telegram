@@ -1,3 +1,6 @@
-aiogram==3.0.0b7
+aiogram==3.0.0b
 reportlab==4.1.0
-pydantic==1.10.12
+aiogram==3.4.1
+aiohttp==3.9.5
+fpdf==1.7.2
+python-dotenv
