@@ -1,1 +1,2 @@
-this is telegram bot
+aiogram==3.4.1
+reportlab==4.1.0
